@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Play">
+            <g id="01" transform="translate(-0.002217, -0.173973)">
+                <rect id="Rectangle-15" fill-opacity="0.9" fill="#2ECC71" x="0" y="0" width="60" height="60"></rect>
+                <path d="M23,20.6232984 C23,19.5182516 23.729063,19.1464482 24.622216,19.7884019 L37.377784,28.9564664 C38.2737092,29.6004126 38.270937,30.6464482 37.377784,31.2884019 L24.622216,40.4564664 C23.7262908,41.1004126 23,40.7208069 23,39.6215699 L23,20.6232984 Z" id="Rectangle-3-Copy-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
